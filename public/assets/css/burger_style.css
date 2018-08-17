@@ -1,9 +1,9 @@
 body {
   background-color: violet;
 }
-
 img {
   width: 15%;
+  margin: 20px; 
 }
 
 .red_font {
@@ -13,4 +13,16 @@ img {
 .tiny_text {
   font-size: 11px;
   color: black;
+}
+#already_eaten {
+ float: right;
+ width: 50%;
+ padding: 10px;
+ height: auto;
+ 
+}
+#ready_to_eat {
+    float: left;
+    width: 50%;
+    height: auto;
 }
