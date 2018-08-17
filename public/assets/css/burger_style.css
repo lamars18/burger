@@ -1,0 +1,16 @@
+body {
+  background-color: violet;
+}
+
+img {
+  width: 15%;
+}
+
+.red_font {
+  color:  maroon;
+}
+
+.tiny_text {
+  font-size: 11px;
+  color: black;
+}
