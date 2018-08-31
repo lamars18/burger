@@ -1,14 +1,3 @@
-// @author: Thomas Thompson
-// @github: tomtom28
-// @comment: Homework 14 - Eat the Burger!
-
-
-
-// This file is just some extra flair to the project
-// Funny sound effects using jQuery click listener
-// All sounds are from http://soundbible.com
-
-
 $(document).ready(function() {
 
   // Pre-load sound effects
